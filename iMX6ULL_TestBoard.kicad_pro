@@ -390,6 +390,18 @@
     [
       "170a856f-5ad8-4c23-af7a-96ba4c5fcce9",
       "PMIC"
+    ],
+    [
+      "ed627054-0f03-4af9-b4aa-7b4b8670e321",
+      "IMX6ULL_Power"
+    ],
+    [
+      "a20d24cd-9e4b-441d-bac3-d93eeb10b0af",
+      "IMX6ULL_Control"
+    ],
+    [
+      "2b0635b6-9207-4917-b161-3847b63df8e6",
+      "IMX6ULL_DDR"
     ]
   ],
   "text_variables": {}
